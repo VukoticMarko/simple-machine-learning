@@ -72,7 +72,7 @@ The following models were trained and evaluated on the dataset:
 - **K-Nearest Neighbors (KNN):** A non-parametric method that classifies data based on the majority class of its nearest neighbors.
 - **Support Vector Machine (SVM):** A powerful classification algorithm that finds the optimal hyperplane to separate classes.
 
-We used **cross-validation** (10-fold) to evaluate the models' performance and reported their mean accuracy and standard deviation.
+I used **cross-validation** (10-fold) to evaluate the models' performance and reported their mean accuracy and standard deviation.
 
 ## Results
 
