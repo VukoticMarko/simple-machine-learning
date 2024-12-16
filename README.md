@@ -19,7 +19,7 @@ The Iris dataset contains 150 instances, each representing a type of flower. The
 - Versicolor
 - Virginica
 
-We trained three classification models to predict the flower class based on the features and evaluated their performance using **cross-validation** and metrics like **accuracy**, **precision**, **recall**, and **F1-score**.
+I trained three classification models to predict the flower class based on the features and evaluated their performance using **cross-validation** and metrics like **accuracy**, **precision**, **recall**, and **F1-score**.
 
 ## Installation
 
